@@ -1,0 +1,5 @@
+https://docs.wemos.cc/en/latest/tutorials/w600/get_started_with_micropython_w600.html
+https://fccid.io/2ASQV-TW-03/User-Manual/User-manual-4210975.pdf
+
+http://www.winnermicro.com/en/upload/1/editor/1559640549261.pdf
+http://www.winnermicro.com/en/upload/1/editor/1573450100546.pdf --Micropython
