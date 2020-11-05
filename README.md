@@ -5,4 +5,6 @@
  
 # Flashing MicroPython
  MicroPython is flashed with the wm_600.fls file from [Winner Micro' website](http://www.winnermicro.com/en/html/1/156/158/497.html) using the [W600 tool](https://github.com/wemos/w600tool)
+ 
  The RX Pin of the W600 is also used for the push button on the side. The pull up resistor for the button is 1kΩ, which makes it hard for a USB-Serial Converter to pull the pin low. This makes it hard to reprogram the W600. A buffer amplifier can be used to allow the USB-Serial Converter to program the W600.
+ 
